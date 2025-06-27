@@ -33,4 +33,4 @@ Flipkart-Review-Sentiment/
 ```
 
 ## 🧑‍💻 Author
-Your Name
+Hariprasath U S
